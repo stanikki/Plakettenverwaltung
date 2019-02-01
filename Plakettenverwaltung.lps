@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="27">
+      <Unit0>
+        <Filename Value="Plakettenverwaltung.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="10" Y="4"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="UPlakettenverwaltung.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="76"/>
+        <CursorPos X="22" Y="7"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="TData.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="91"/>
+        <CursorPos X="111" Y="145"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="UAnmeldung.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="UInfo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="UAnzeigeSAP.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="UPlakettenbestaende.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="Z_PLV_GET_INFOS_V011.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="Z_PLV_GET_SVDATA_V011.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="Z_PLV_SELECT_SVDATA_V011.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="Z_PLV_SET_SVDATA_V011.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="UPlakettenabgaenge.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="UTatsaechlicherBestand.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="UGetInfos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="4"/>
+        <CursorPos X="128" Y="39"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="UGetSVData.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="USetSVData.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="UAuswertung.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="USelectSVData.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="UProtokoll.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="UEinstellungen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="rrdecl32.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="27"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="fcStatusBar.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="5"/>
+        <CursorPos X="3" Y="28"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="fcCommon.pas"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="23" Y="24"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="fcBitmap.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="86"/>
+        <CursorPos X="4" Y="108"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="fcGraphics.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="29" Y="55"/>
+        <UsageCount Value="9"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="C:\Lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="843"/>
+        <CursorPos X="43" Y="858"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:\Lazarus\lcl\lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="24" Y="168"/>
+        <UsageCount Value="9"/>
+      </Unit26>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="Plakettenverwaltung.dpr"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Plakettenverwaltung.dpr"/>
+        <Caret Line="4" Column="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="fcStatusBar.pas"/>
+        <Caret Line="23" Column="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="fcStatusBar.pas"/>
+        <Caret Line="28" Column="3" TopLine="5"/>
+      </Position4>
+      <Position5>
+        <Filename Value="fcCommon.pas"/>
+        <Caret Line="24" Column="23"/>
+      </Position5>
+      <Position6>
+        <Filename Value="fcBitmap.pas"/>
+        <Caret Line="107" Column="15" TopLine="85"/>
+      </Position6>
+      <Position7>
+        <Filename Value="C:\Lazarus\lcl\graphics.pp"/>
+        <Caret Line="858" Column="43" TopLine="843"/>
+      </Position7>
+      <Position8>
+        <Filename Value="fcBitmap.pas"/>
+        <Caret Line="98" Column="39" TopLine="85"/>
+      </Position8>
+      <Position9>
+        <Filename Value="UGetInfos.pas"/>
+        <Caret Line="39" Column="128" TopLine="4"/>
+      </Position9>
+      <Position10>
+        <Filename Value="TData.pas"/>
+        <Caret Line="10" Column="7" TopLine="10"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="C:\Lazarus\lcl\lcltype.pp"/>
+        <Line Value="175"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
